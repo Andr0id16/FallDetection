@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fall Detection App</string>
+    <string name="sensor_name1">Accelerometer</string>
+    <string name="sensor_name2">Gyroscope</string>
+    <string name="axis_1">X</string>
+    <string name="axis_2">Y</string>
+    <string name="axis_3">Z</string>
+    <string name="empty_value">0.0</string>
+</resources>
